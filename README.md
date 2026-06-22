@@ -165,7 +165,6 @@ This is an exploratory analysis, not a peer-reviewed study. The findings are con
 - [falkor-irac](https://github.com/joyboseroy/falkor-irac) — graph-constrained legal reasoning, Indian judiciary
 - [imljd](https://github.com/joyboseroy/imljd) — Indian matrimonial litigation dataset
 - [rti-bench](https://github.com/joyboseroy/rti-bench) — Indian RTI Commission decisions dataset
-- Labour research paper (Bengaluru Labour Research Initiative) — empirical analysis of Indian IT sector workforce reduction, OSF Preprints
 
 ---
 
