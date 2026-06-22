@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+networkx
+pandas
+matplotlib
+groq
