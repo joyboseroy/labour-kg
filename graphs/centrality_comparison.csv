@@ -1,0 +1,858 @@
+concept,bet_old,bet_new,bet_change,deg_old,deg_new,old_provisions,new_provisions,status
+industrial dispute,0.1248,0.011,-0.1138,0.2068,0.054,18,17,lost
+contract labour,0.1223,0.0214,-0.1009,0.1914,0.1025,25,21,lost
+strike,0.0755,0.011,-0.0645,0.1512,0.0651,20,11,lost
+retrenchment,0.0678,0.0155,-0.0523,0.0957,0.0443,12,14,lost
+employment,0.0693,0.0171,-0.0522,0.071,0.0623,5,11,lost
+unfair labour practice,0.0538,0.0022,-0.0516,0.1049,0.0332,17,7,lost
+industrial establishment,0.0565,0.0056,-0.0509,0.1019,0.0416,9,14,lost
+conciliation,0.0487,0.0014,-0.0473,0.1049,0.0374,12,9,lost
+employer,0.0877,0.0437,-0.044,0.1265,0.151,8,37,lost
+wages,0.1382,0.0999,-0.0383,0.2253,0.2271,48,83,lost
+penalty,0.0396,0.0043,-0.0353,0.0926,0.0402,15,10,lost
+conditions of service,0.0392,0.0044,-0.0348,0.0988,0.0319,6,5,lost
+offence,0.0354,0.0065,-0.0289,0.0926,0.0499,8,12,lost
+closure,0.0396,0.0112,-0.0284,0.0802,0.0471,10,9,lost
+collective bargaining,0.0346,0.0101,-0.0245,0.1111,0.0665,21,27,lost
+appropriate government,0.0339,0.0095,-0.0244,0.0926,0.0319,6,5,lost
+inspector,0.0444,0.0224,-0.022,0.108,0.0942,14,25,lost
+labour court,0.0289,0.0072,-0.0217,0.0802,0.0208,8,3,lost
+payment of wages,0.0534,0.0325,-0.0209,0.1574,0.1163,30,44,lost
+workman,0.0165,0.0,-0.0165,0.0617,0.0,3,0,lost
+lock-out,0.0165,0.0014,-0.0151,0.0648,0.0305,5,5,lost
+lay-off,0.0165,0.0031,-0.0134,0.0556,0.0457,6,11,lost
+award,0.0178,0.0047,-0.0131,0.0802,0.0416,9,7,lost
+adjudication,0.0151,0.0022,-0.0129,0.0679,0.0194,7,4,lost
+contract,0.014,0.0021,-0.0119,0.0525,0.0194,3,2,lost
+notice,0.0293,0.0175,-0.0118,0.1019,0.0873,8,18,lost
+licence,0.0116,0.0002,-0.0114,0.0617,0.0152,4,1,lost
+investigation,0.0116,0.0002,-0.0114,0.071,0.0125,6,3,lost
+industrial tribunal,0.0109,0.0,-0.0109,0.0463,0.0028,6,1,lost
+workmen,0.0105,0.0,-0.0105,0.0556,0.0,3,0,lost
+lockout,0.012,0.0018,-0.0102,0.0617,0.0222,10,4,lost
+public utility service,0.009,0.0,-0.009,0.0494,0.0,4,0,lost
+fees,0.0109,0.0031,-0.0078,0.0525,0.0305,4,3,lost
+wrongful termination,0.0108,0.0038,-0.007,0.037,0.0374,6,7,lost
+government,0.0063,0.0001,-0.0062,0.0309,0.0194,2,1,lost
+labour administration,0.006,0.0,-0.006,0.0309,0.0,3,0,lost
+plantation,0.0059,0.0002,-0.0057,0.0278,0.0083,3,1,lost
+public interest,0.0062,0.0007,-0.0055,0.0278,0.0125,2,3,lost
+procedure,0.0315,0.0271,-0.0044,0.0679,0.0734,4,8,lost
+overtime,0.0054,0.0011,-0.0043,0.0278,0.0374,3,7,lost
+industrial establishments,0.0043,0.0001,-0.0042,0.0216,0.0069,2,1,lost
+continuous service,0.0066,0.0028,-0.0038,0.0494,0.0457,4,8,lost
+scheduled employment,0.0037,0.0,-0.0037,0.0401,0.0,4,0,lost
+emergency,0.0038,0.0001,-0.0037,0.034,0.0069,2,1,lost
+amenity,0.0033,0.0001,-0.0032,0.0216,0.0055,2,1,lost
+national tribunal,0.0031,0.0,-0.0031,0.037,0.0055,3,1,lost
+deductions,0.0064,0.0035,-0.0029,0.0525,0.0305,5,6,lost
+sanction,0.0028,0.0,-0.0028,0.0278,0.0055,2,1,lost
+arbitration,0.0072,0.0047,-0.0025,0.0494,0.0374,10,8,lost
+central government,0.0027,0.0006,-0.0021,0.0494,0.0055,2,2,lost
+evidence,0.0052,0.0032,-0.002,0.0278,0.0277,2,6,lost
+arbitration award,0.0019,0.0,-0.0019,0.0309,0.0,2,0,lost
+financial aid,0.0018,0.0,-0.0018,0.0123,0.0,1,0,lost
+controlled industry,0.0016,0.0,-0.0016,0.037,0.0,2,0,lost
+report,0.0018,0.0002,-0.0016,0.0247,0.0222,2,1,lost
+factory,0.0034,0.0018,-0.0016,0.037,0.0319,3,3,lost
+director,0.0014,0.0,-0.0014,0.0586,0.0152,3,3,lost
+manager,0.0014,0.0,-0.0014,0.0586,0.0139,3,2,lost
+representative union,0.0013,0.0,-0.0013,0.0123,0.0,1,0,lost
+notice period,0.0012,0.0,-0.0012,0.0216,0.0042,2,1,lost
+contravention,0.0011,0.0,-0.0011,0.0154,0.0,3,0,lost
+financial liability,0.0011,0.0,-0.0011,0.0185,0.0,1,0,lost
+complaint,0.0043,0.0034,-0.0009,0.0401,0.0194,4,3,lost
+intermittent work,0.001,0.0001,-0.0009,0.0309,0.0097,2,2,lost
+seasonal character,0.001,0.0001,-0.0009,0.0309,0.0097,2,2,lost
+intimidation,0.0009,0.0,-0.0009,0.0247,0.0,2,0,lost
+rest intervals,0.0012,0.0003,-0.0009,0.0278,0.0152,3,5,lost
+fine,0.0118,0.0109,-0.0009,0.0525,0.0374,11,8,lost
+cognizance,0.0008,0.0,-0.0008,0.0123,0.0,1,0,lost
+principal employer,0.0009,0.0001,-0.0008,0.0247,0.0083,3,1,lost
+limitation of prosecutions,0.0008,0.0,-0.0008,0.0093,0.0,1,0,lost
+security deposit,0.0007,0.0,-0.0007,0.0154,0.0,1,0,lost
+labour law,0.0007,0.0,-0.0007,0.0093,0.0,1,0,lost
+grievance,0.0007,0.0,-0.0007,0.0216,0.0055,1,1,lost
+dispute,0.0037,0.0031,-0.0006,0.0432,0.0166,4,4,lost
+knowledge,0.0006,0.0,-0.0006,0.0154,0.0,1,0,lost
+self-organisation,0.0005,0.0,-0.0005,0.0154,0.0,1,0,lost
+coercion,0.0005,0.0,-0.0005,0.0154,0.0,1,0,lost
+consent,0.0004,0.0,-0.0004,0.034,0.0152,3,3,lost
+judicial proceeding,0.0005,0.0001,-0.0004,0.0123,0.0069,1,1,lost
+connivance,0.0004,0.0,-0.0004,0.034,0.0152,3,3,lost
+shortage of power,0.0004,0.0001,-0.0003,0.0185,0.0083,1,1,lost
+threats,0.0003,0.0,-0.0003,0.0154,0.0,1,0,lost
+natural calamity,0.0004,0.0001,-0.0003,0.0185,0.0083,1,1,lost
+adolescent,0.0003,0.0,-0.0003,0.0278,0.0,1,0,lost
+renewal of licence,0.0003,0.0,-0.0003,0.0247,0.0,1,0,lost
+average working day,0.0003,0.0,-0.0003,0.0123,0.0,1,0,lost
+prescribed form,0.0003,0.0,-0.0003,0.0247,0.0,1,0,lost
+termination of service,0.0003,0.0,-0.0003,0.0247,0.0,1,0,lost
+cost of living index number,0.0003,0.0,-0.0003,0.0278,0.0,1,0,lost
+adult,0.0003,0.0,-0.0003,0.0278,0.0,1,0,lost
+child,0.0003,0.0,-0.0003,0.0278,0.0,1,0,lost
+licensing officer,0.0003,0.0,-0.0003,0.0247,0.0,1,0,lost
+force,0.0003,0.0,-0.0003,0.0154,0.0,1,0,lost
+violence,0.0003,0.0,-0.0003,0.0154,0.0,1,0,lost
+dock labour board,0.0002,0.0,-0.0002,0.0278,0.0,1,0,lost
+contract of service,0.0002,0.0,-0.0002,0.0154,0.0097,1,2,lost
+conditions,0.0003,0.0001,-0.0002,0.0247,0.0194,1,1,lost
+public grounds,0.0002,0.0,-0.0002,0.0247,0.0,1,0,lost
+prohibition,0.0002,0.0,-0.0002,0.0123,0.0,1,0,lost
+railway company,0.0002,0.0,-0.0002,0.0278,0.0,1,0,lost
+expulsion,0.0002,0.0,-0.0002,0.0247,0.0083,1,1,lost
+national economy,0.0002,0.0,-0.0002,0.0247,0.0,1,0,lost
+misrepresentation,0.0002,0.0,-0.0002,0.0185,0.0152,2,1,lost
+suppression of material fact,0.0002,0.0,-0.0002,0.0185,0.0,2,0,lost
+conditions of work,0.0002,0.0,-0.0002,0.0123,0.0,1,0,lost
+appeal,0.0219,0.0217,-0.0002,0.0401,0.0665,4,11,lost
+social justice,0.0002,0.0,-0.0002,0.0247,0.0,1,0,lost
+age restriction,0.0003,0.0001,-0.0002,0.0185,0.0097,1,1,lost
+reasonable diligence,0.0002,0.0,-0.0002,0.0216,0.0,1,0,lost
+employees’ state insurance corporation,0.0002,0.0,-0.0002,0.0278,0.0,1,0,lost
+termination,0.0002,0.0,-0.0002,0.0123,0.0069,1,1,lost
+bona fide error,0.0002,0.0,-0.0002,0.0216,0.0,1,0,lost
+advance,0.0002,0.0,-0.0002,0.0093,0.0028,1,1,lost
+more favourable benefits,0.0002,0.0,-0.0002,0.0154,0.0,1,0,lost
+records,0.0008,0.0006,-0.0002,0.0309,0.0194,3,6,lost
+exceptional circumstances,0.0002,0.0,-0.0002,0.0216,0.0,1,0,lost
+neglect or default,0.0001,0.0,-0.0001,0.0123,0.0,1,0,lost
+confidentiality,0.0002,0.0001,-0.0001,0.0154,0.0069,1,1,lost
+loss of money,0.0002,0.0001,-0.0001,0.0185,0.0097,1,1,lost
+fines,0.0002,0.0001,-0.0001,0.0185,0.0097,1,1,lost
+deductions from wages,0.0001,0.0,-0.0001,0.0062,0.0,1,0,lost
+secretary,0.0001,0.0,-0.0001,0.0463,0.0,1,0,lost
+inspection,0.0007,0.0006,-0.0001,0.0216,0.0166,1,3,lost
+conciliation proceeding,0.0001,0.0,-0.0001,0.0463,0.0,1,0,lost
+coercive activities,0.0001,0.0,-0.0001,0.0093,0.0,1,0,lost
+factories,0.0001,0.0,-0.0001,0.0123,0.0,1,0,lost
+wage-periods,0.0001,0.0,-0.0001,0.0062,0.0,1,0,lost
+hardship,0.0001,0.0,-0.0001,0.0185,0.0,1,0,lost
+cancellation,0.0001,0.0,-0.0001,0.0093,0.0042,1,1,lost
+guilty,0.0001,0.0,-0.0001,0.0463,0.0,1,0,lost
+conciliation officer,0.0001,0.0,-0.0001,0.0093,0.0,1,0,lost
+bargaining representative,0.0001,0.0,-0.0001,0.0093,0.0,1,0,lost
+public peace,0.0001,0.0,-0.0001,0.0185,0.0,1,0,lost
+disabled employees,0.0001,0.0,-0.0001,0.0093,0.0,1,0,lost
+prescribed manner,0.0001,0.0,-0.0001,0.0185,0.0,1,0,lost
+natural justice,0.0001,0.0,-0.0001,0.0062,0.0,1,0,lost
+co-operative societies,0.0001,0.0,-0.0001,0.0093,0.0055,1,1,lost
+unpaid wages,0.0001,0.0,-0.0001,0.0062,0.0,1,0,lost
+agent,0.0001,0.0,-0.0001,0.0463,0.0097,1,1,lost
+termination of employment,0.0002,0.0001,-0.0001,0.0123,0.0139,1,2,lost
+notice of lock-out,0.0001,0.0,-0.0001,0.0185,0.0,1,0,lost
+court of inquiry,0.0001,0.0,-0.0001,0.0062,0.0,1,0,lost
+piece work,0.0001,0.0,-0.0001,0.0062,0.0,1,0,lost
+labour department,0.0001,0.0,-0.0001,0.0093,0.0,1,0,lost
+exemptions,0.0001,0.0,-0.0001,0.0093,0.0,1,0,lost
+damage to goods,0.0002,0.0001,-0.0001,0.0185,0.0097,1,1,lost
+notice of strike,0.0001,0.0,-0.0001,0.0185,0.0,1,0,lost
+court-fees,0.0001,0.0,-0.0001,0.0123,0.0,1,0,lost
+confidential information,0.0001,0.0,-0.0001,0.0062,0.0,1,0,lost
+average pay,0.0002,0.0001,-0.0001,0.0123,0.0083,1,1,lost
+re-registration,0.0001,0.0,-0.0001,0.0093,0.0,1,0,lost
+damage or loss,0.0001,0.0,-0.0001,0.0123,0.0069,1,1,lost
+scheduled employments,0.0001,0.0,-0.0001,0.0062,0.0,1,0,lost
+conciliation proceedings,0.0001,0.0,-0.0001,0.0185,0.0097,1,1,lost
+body corporate,0.0001,0.0,-0.0001,0.0463,0.0097,1,1,lost
+contract of employment,0.0002,0.0001,-0.0001,0.0185,0.0055,1,1,lost
+association of persons,0.0001,0.0,-0.0001,0.0463,0.0,1,0,lost
+insurance schemes,0.0001,0.0,-0.0001,0.0093,0.0,1,0,lost
+annual returns,0.0,0.0,0.0,0.0,0.0069,0,1,absent
+medical records,0.0,0.0,0.0,0.0,0.0083,0,1,absent
+welfare facilities,0.0,0.0,0.0,0.0,0.0014,0,1,absent
+employees state insurance corporation,0.0,0.0,0.0,0.0,0.0111,0,1,absent
+prescribed periods,0.0,0.0,0.0,0.0,0.0152,0,1,absent
+control,0.0,0.0,0.0,0.0,0.0097,0,1,absent
+competition,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+re-employment,0.0,0.0,0.0,0.0062,0.0028,1,1,absent
+transfer of cases,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+proceeding,0.0,0.0,0.0,0.0123,0.0055,1,1,absent
+direction,0.0,0.0,0.0,0.0,0.0097,0,1,absent
+corporate social responsibility fund,0.0,0.0,0.0,0.0,0.0097,0,1,absent
+publication of reports,0.0,0.0,0.0,0.0123,0.0,1,0,absent
+estate,0.0,0.0,0.0,0.0031,0.0,1,0,absent
+conflict of interest,0.0,0.0,0.0,0.0,0.0083,0,1,absent
+medical facility,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+annual report,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+appellate officer,0.0,0.0,0.0,0.0062,0.0,1,0,absent
+dependants' benefit,0.0,0.0,0.0,0.0,0.0152,0,1,absent
+default in payment,0.0,0.0,0.0,0.0,0.0083,0,1,absent
+welfare fund,0.0,0.0,0.0,0.0,0.0097,0,1,absent
+civil court powers,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+government authority,0.0,0.0,0.0,0.0,0.0014,0,1,absent
+badli,0.0,0.0,0.0,0.0,0.0083,0,1,absent
+undue influence,0.0,0.0,0.0,0.0,0.0083,0,1,absent
+disciplinary proceedings,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+retirement,0.0,0.0,0.0,0.0,0.0125,0,1,absent
+publication of orders,0.0,0.0,0.0,0.0031,0.0,1,0,absent
+family benefit,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+fund management,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+group 'a' officer,0.0,0.0,0.0,0.0,0.0139,0,1,absent
+central public sector undertaking,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+membership fee,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+disbursement,0.0,0.0,0.0,0.0,0.0014,0,1,absent
+mental incapacity,0.0,0.0,0.0,0.0,0.0083,0,1,absent
+rules of discipline,0.0,0.0,0.0,0.0031,0.0014,1,1,absent
+state board,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+reporting of vacancies,0.0,0.0,0.0,0.0,0.0097,0,1,absent
+amalgamation,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+re-instatement,0.0,0.0,0.0,0.0093,0.0,1,0,absent
+supervision,0.0,0.0,0.0,0.0,0.0097,0,1,absent
+welfare and working conditions,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+recognition,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+minor,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+cost of construction,0.0,0.0,0.0,0.0,0.0083,0,1,absent
+identity,0.0,0.0,0.0,0.0,0.0152,0,1,absent
+prescribed conditions,0.0,0.0,0.0,0.0,0.0152,0,1,absent
+government_order,0.0,0.0,0.0,0.0062,0.0,1,0,absent
+levy of damages,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+nuclear fuel,0.0,0.0,0.0,0.0216,0.0,1,0,absent
+accidents,0.0,0.0,0.0,0.0,0.0111,0,2,absent
+sale of property,0.0,0.0,0.0,0.0,0.018,0,1,absent
+recovery of amount due,0.0,0.0,0.0,0.0,0.018,0,1,absent
+floor wage,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+judicial authority,0.0,0.0,0.0,0.0093,0.0,1,0,absent
+aggregators,0.0,0.0,0.0,0.0,0.0139,0,1,absent
+mineral oil,0.0,0.0,0.0,0.0216,0.0,1,0,absent
+losses,0.0,0.0,0.0,0.0,0.0,0,1,absent
+life insurance,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+arbitration proceedings,0.0,0.0,0.0,0.0,0.0097,0,1,absent
+social security benefits,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+income-tax,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+witnesses,0.0,0.0,0.0,0.0,0.0097,0,1,absent
+alumina,0.0,0.0,0.0,0.0216,0.0,1,0,absent
+production,0.0,0.0,0.0,0.0216,0.0,1,0,absent
+quorum,0.0,0.0,0.0,0.0123,0.0,1,0,absent
+execution of act,0.0,0.0,0.0,0.0031,0.0,1,0,absent
+agriculture,0.0,0.0,0.0,0.0309,0.0152,1,1,absent
+building workers,0.0,0.0,0.0,0.0,0.0083,0,1,absent
+advisory board,0.0001,0.0001,0.0,0.0062,0.0097,1,1,stable
+business conduct,0.0,0.0,0.0,0.0123,0.0,1,0,absent
+auditor,0.0,0.0,0.0,0.0,0.0069,0,1,absent
+payment of premia,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+privileges,0.0,0.0,0.0,0.0,0.0097,0,1,absent
+absorption,0.0,0.0,0.0,0.0,0.0152,0,1,absent
+employee benefit,0.0,0.0,0.0,0.0,0.0069,0,1,absent
+cultivation,0.0,0.0,0.0,0.0309,0.0,1,0,absent
+receiver,0.0,0.0,0.0,0.0,0.018,0,1,absent
+decree,0.0,0.0,0.0,0.0247,0.0097,1,1,absent
+classification of workers,0.0,0.0,0.0,0.0,0.0083,0,1,absent
+superannuation,0.0,0.0,0.0,0.0,0.0125,0,1,absent
+creditors,0.0,0.0,0.0,0.0,0.0097,0,1,absent
+demonstrations,0.0,0.0,0.0,0.0031,0.0,1,0,absent
+public distribution system,0.0,0.0,0.0,0.0,0.0069,0,1,absent
+hardship to employer,0.0,0.0,0.0,0.0123,0.0,1,0,absent
+aadhaar,0.0,0.0,0.0,0.0,0.0152,0,1,absent
+unorganised worker,0.0,0.0,0.0,0.0,0.0152,0,1,absent
+manner of service,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+fatal accidents,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+crèche,0.0,0.0,0.0,0.0,0.0139,0,1,absent
+directions,0.0,0.0,0.0,0.0062,0.0069,2,2,absent
+question of law,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+material fact,0.0,0.0,0.0,0.0,0.0152,0,1,absent
+delay in payment,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+communication,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+goods and services provider platform,0.0,0.0,0.0,0.0,0.0,0,1,absent
+civil court,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+compounding of offences,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+tax,0.0,0.0,0.0,0.0,0.0069,0,1,absent
+code,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+metropolitan magistrate,0.0,0.0,0.0,0.0,0.0069,0,1,absent
+local committees,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+government establishments,0.0,0.0,0.0,0.0,0.0014,0,1,absent
+toll free helpline,0.0,0.0,0.0,0.0,0.0069,0,1,absent
+helpline,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+limitation,0.0,0.0,0.0,0.0,0.0166,0,1,absent
+insured persons,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+attendance,0.0,0.0,0.0,0.0,0.0097,0,2,absent
+restarting of undertakings,0.0,0.0,0.0,0.0123,0.0,1,0,absent
+oral evidence,0.0,0.0,0.0,0.0,0.0014,0,1,absent
+assignee,0.0,0.0,0.0,0.0,0.0069,0,1,absent
+payment of benefit,0.0,0.0,0.0,0.0,0.0069,0,1,absent
+funeral assistance,0.0,0.0,0.0,0.0,0.0166,0,1,absent
+personnel,0.0,0.0,0.0,0.0,0.0083,0,1,absent
+arrears,0.0,0.0,0.0,0.0,0.018,0,1,absent
+duties of designers,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+housing,0.0,0.0,0.0,0.0,0.0166,0,1,absent
+worker information,0.0,0.0,0.0,0.0123,0.0,1,0,absent
+tillage,0.0,0.0,0.0,0.0309,0.0,1,0,absent
+document,0.0,0.0,0.0,0.0,0.0097,0,2,absent
+government order,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+commission,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+previous conviction,0.0,0.0,0.0,0.0,0.0097,0,1,absent
+limitation period,0.0,0.0,0.0,0.0,0.0069,0,1,absent
+non-disclosure,0.0,0.0,0.0,0.0,0.0152,0,1,absent
+management,0.0,0.0,0.0,0.0,0.0097,0,1,absent
+forfeiture,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+category of workmen,0.0,0.0,0.0,0.0093,0.0,1,0,absent
+damage to property,0.0,0.0,0.0,0.0031,0.0,1,0,absent
+cancellation of registration,0.0,0.0,0.0,0.0,0.0111,0,1,absent
+career services,0.0,0.0,0.0,0.0,0.0083,0,1,absent
+assessment order,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+available surplus,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+labour tribunal,0.0,0.0,0.0,0.0123,0.0,1,0,absent
+fuel gases,0.0,0.0,0.0,0.0216,0.0,1,0,absent
+detention,0.0,0.0,0.0,0.0,0.018,0,1,absent
+instigation,0.0,0.0,0.0,0.0062,0.0,1,0,absent
+registering officer,0.0,0.0,0.0,0.0093,0.0,1,0,absent
+administrative action,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+prescribed form and manner,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+probationer,0.0,0.0,0.0,0.0,0.0083,0,1,absent
+last person to be employed,0.0,0.0,0.0,0.0093,0.0,1,0,absent
+mala fide,0.0,0.0,0.0,0.0093,0.0,1,0,absent
+high court,0.0,0.0,0.0,0.0,0.0069,0,1,absent
+maintenance of supplies and services,0.0,0.0,0.0,0.0123,0.0,1,0,absent
+social security schemes,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+portability of benefits,0.0,0.0,0.0,0.0,0.0069,0,1,absent
+scheme of arrangement,0.0,0.0,0.0,0.0,0.0097,0,1,absent
+negotiating council,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+employees' provident fund,0.0,0.0,0.0,0.0,0.0111,0,1,absent
+self-assessment,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+women representation,0.0,0.0,0.0,0.0,0.0097,0,1,absent
+hazardous process,0.0,0.0,0.0,0.0,0.0083,0,1,absent
+government officer,0.0,0.0,0.0,0.0123,0.0,1,0,absent
+auditing,0.0,0.0,0.0,0.0,0.0069,0,1,absent
+industrial tribunals,0.0,0.0,0.0,0.0031,0.0,1,0,absent
+registrar,0.0,0.0,0.0,0.0123,0.0014,1,1,absent
+organised sector,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+employees,0.0,0.0,0.0,0.0,0.0014,0,1,absent
+building and other construction cess fund,0.0,0.0,0.0,0.0,0.0069,0,1,absent
+powers,0.0,0.0,0.0,0.0,0.0097,0,1,absent
+timbering,0.0,0.0,0.0,0.0309,0.0,1,0,absent
+lump sum payment,0.0,0.0,0.0,0.0,0.0069,0,1,absent
+conditions of licence,0.0,0.0,0.0,0.0154,0.0,1,0,absent
+deduction,0.0,0.0,0.0,0.0123,0.0028,1,1,absent
+recovery of money,0.0,0.0,0.0,0.0,0.0069,0,1,absent
+life insurance benefits,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+charges,0.0,0.0,0.0,0.0,0.018,0,1,absent
+group insurance scheme,0.0,0.0,0.0,0.0,0.0125,0,1,absent
+reasonableness,0.0,0.0,0.0,0.0,0.0069,0,1,absent
+building worker,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+temporary worker,0.0,0.0,0.0,0.0,0.0083,0,1,absent
+protection from legal proceedings,0.0,0.0,0.0,0.0031,0.0014,1,2,absent
+manufacturing,0.0,0.0,0.0,0.0216,0.0,1,0,absent
+heirs,0.0,0.0,0.0,0.0,0.0069,0,1,absent
+office-bearer,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+qualifying conditions,0.0,0.0,0.0,0.0,0.0111,0,1,absent
+record,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+wage period,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+old age pension,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+duty to maintain records,0.0,0.0,0.0,0.0062,0.0,1,0,absent
+labour laws,0.0,0.0,0.0,0.0,0.0097,0,1,absent
+cessation,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+pension account,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+employed person,0.0,0.0,0.0,0.0123,0.0,1,0,absent
+independent recruitment,0.0,0.0,0.0,0.0,0.0152,0,1,absent
+immunity,0.0,0.0,0.0,0.0093,0.0,1,0,absent
+winding up,0.0,0.0,0.0,0.0,0.0097,0,1,absent
+loss,0.0,0.0,0.0,0.0,0.0069,0,1,absent
+dependants,0.0,0.0,0.0,0.0,0.0166,0,1,absent
+medical attendance,0.0,0.0,0.0,0.0,0.0152,0,1,absent
+arrest,0.0,0.0,0.0,0.0,0.018,0,1,absent
+preference,0.0,0.0,0.0,0.0062,0.0028,1,1,absent
+women employment,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+hazardous processes,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+administrative expenses,0.0,0.0,0.0,0.0,0.0097,0,2,absent
+authorised officer,0.0,0.0,0.0,0.0,0.0069,0,1,absent
+beneficiaries,0.0,0.0,0.0,0.0,0.0083,0,1,absent
+composition,0.0,0.0,0.0,0.0,0.0097,0,1,absent
+documents,0.0,0.0,0.0,0.0,0.0097,0,1,absent
+improvement of plant or technique,0.0,0.0,0.0,0.0093,0.0042,1,1,absent
+dissolution,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+employees' state insurance fund,0.0,0.0,0.0,0.0,0.0097,0,1,absent
+neglect,0.0,0.0,0.0,0.0247,0.0152,2,3,absent
+domestic service,0.0,0.0,0.0,0.0,0.0152,0,1,absent
+employer obligation,0.0,0.0,0.0,0.0,0.0097,0,1,absent
+certifying officer,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+public employment,0.0,0.0,0.0,0.0,0.0152,0,1,absent
+old age homes,0.0,0.0,0.0,0.0,0.0166,0,1,absent
+financial loss,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+citizen of india,0.0,0.0,0.0,0.0093,0.0,1,0,absent
+employee's contribution,0.0,0.0,0.0,0.0,0.0125,0,4,absent
+cause of action,0.0,0.0,0.0,0.0,0.0166,0,1,absent
+rationalisation,0.0,0.0,0.0,0.0093,0.0042,1,1,absent
+skill upgradation,0.0,0.0,0.0,0.0,0.0166,0,1,absent
+return filing,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+display of abstracts,0.0,0.0,0.0,0.0123,0.0,1,0,absent
+transfer of money,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+department,0.0,0.0,0.0,0.0,0.0097,0,1,absent
+distribution and administration of money,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+employers,0.0,0.0,0.0,0.0,0.0083,0,1,absent
+dairy farming,0.0,0.0,0.0,0.0309,0.0,1,0,absent
+inspection scheme,0.0,0.0,0.0,0.0,0.0014,0,1,absent
+actuary,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+relief,0.0,0.0,0.0,0.0093,0.0,1,0,absent
+register,0.0,0.0,0.0,0.0031,0.0,1,0,absent
+majority decision,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+facilitation centre,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+schedules,0.0,0.0,0.0,0.0,0.0055,0,2,absent
+certification,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+wage ceiling,0.0,0.0,0.0,0.0,0.0111,0,1,absent
+provisional measure,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+legal disability,0.0,0.0,0.0,0.0,0.0083,0,1,absent
+forestry,0.0,0.0,0.0,0.0309,0.0,1,0,absent
+permanent worker,0.0,0.0,0.0,0.0,0.0083,0,1,absent
+age of retirement,0.0,0.0,0.0,0.0031,0.0,1,0,absent
+certificate,0.0,0.0,0.0,0.0,0.0069,0,1,absent
+recruitment,0.0,0.0,0.0,0.0,0.0139,0,1,absent
+consensus,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+registration of establishment,0.0,0.0,0.0,0.0,0.0083,0,1,absent
+same or similar nature of work,0.0,0.0,0.0,0.0,0.0014,0,1,absent
+welfare schemes,0.0,0.0,0.0,0.0,0.0166,0,1,absent
+accident insurance,0.0,0.0,0.0,0.0,0.0139,0,1,absent
+arbitration agreement,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+previous publication,0.0,0.0,0.0,0.0,0.0125,0,1,absent
+particulars,0.0,0.0,0.0,0.0,0.0028,0,3,absent
+labour welfare,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+scale of benefits,0.0,0.0,0.0,0.0,0.0111,0,1,absent
+self-employed persons,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+legal representative,0.0,0.0,0.0,0.0123,0.0,1,0,absent
+rehabilitation of workmen,0.0,0.0,0.0,0.0123,0.0,1,0,absent
+loan,0.0,0.0,0.0,0.0,0.0097,0,2,absent
+supersession,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+sabotage,0.0,0.0,0.0,0.0,0.0083,0,1,absent
+payment of compensation,0.0,0.0,0.0,0.0,0.0083,0,1,absent
+wrongful exactions,0.0,0.0,0.0,0.0,0.0014,0,1,absent
+receipts,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+recovery officer,0.0,0.0,0.0,0.0,0.0069,0,1,absent
+negligence,0.0,0.0,0.0,0.0,0.0069,0,1,absent
+assessment of dues,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+sexual harassment,0.0,0.0,0.0,0.0,0.0083,0,1,absent
+identity card,0.0,0.0,0.0,0.0,0.0055,0,2,absent
+licensing officers,0.0,0.0,0.0,0.0062,0.0,1,0,absent
+farming,0.0,0.0,0.0,0.0309,0.0,1,0,absent
+theft,0.0,0.0,0.0,0.0,0.0083,0,1,absent
+rights,0.0,0.0,0.0,0.0,0.0097,0,1,absent
+duties of suppliers,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+duties,0.0,0.0,0.0,0.0,0.0097,0,1,absent
+employment exchange,0.0,0.0,0.0,0.0,0.0014,0,1,absent
+arrear of land revenue,0.0,0.0,0.0,0.0,0.0069,0,1,absent
+industry,0.0002,0.0002,0.0,0.0278,0.0139,1,1,stable
+poultry,0.0,0.0,0.0,0.0309,0.0,1,0,absent
+wage rates,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+presiding officer,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+cost of living allowance,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+discipline,0.0,0.0,0.0,0.0,0.0139,0,1,absent
+insurance amount,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+state advisory board,0.0,0.0,0.0,0.0093,0.0,1,0,absent
+central board,0.0,0.0,0.0,0.0,0.0139,0,1,absent
+donations,0.0,0.0,0.0,0.0,0.0097,0,1,absent
+standardisation,0.0,0.0,0.0,0.0093,0.0042,1,1,absent
+enquiry,0.0,0.0,0.0,0.0,0.0097,0,2,absent
+investment,0.0,0.0,0.0,0.0,0.0097,0,4,absent
+insurance benefits,0.0,0.0,0.0,0.0,0.0,0,1,absent
+determination of dues,0.0,0.0,0.0,0.0,0.0139,0,1,absent
+equal remuneration,0.0,0.0,0.0,0.0,0.0125,0,4,absent
+government control,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+private dwelling houses,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+exclusion,0.0,0.0,0.0,0.0,0.0152,0,1,absent
+livestock,0.0,0.0,0.0,0.0309,0.0,1,0,absent
+amendment,0.0,0.0,0.0,0.0,0.0055,0,2,absent
+hazardous substances,0.0,0.0,0.0,0.0,0.0083,0,1,absent
+duties of manufacturers,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+notification of vacancies,0.0,0.0,0.0,0.0,0.0014,0,1,absent
+employment injury benefit,0.0,0.0,0.0,0.0,0.0166,0,1,absent
+construction workers,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+working journalist,0.0,0.0,0.0,0.0,0.0125,0,1,absent
+disposal of applications,0.0,0.0,0.0,0.0,0.0111,0,1,absent
+period of service,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+unfair treatment,0.0,0.0,0.0,0.0,0.0014,0,1,absent
+regional boards,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+farm operations,0.0,0.0,0.0,0.0309,0.0,1,0,absent
+ease of compliance,0.0,0.0,0.0,0.0,0.0097,0,1,absent
+misappropriation,0.0,0.0,0.0,0.0,0.0083,0,1,absent
+legal proceedings,0.0,0.0,0.0,0.0093,0.0,1,0,absent
+aggregator,0.0,0.0,0.0,0.0,0.0097,0,1,absent
+exempt income,0.0,0.0,0.0,0.0,0.0069,0,1,absent
+illegal strike,0.0,0.0,0.0,0.0093,0.0028,2,1,absent
+education,0.0,0.0,0.0,0.0,0.0166,0,1,absent
+women worker representation,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+management policy,0.0,0.0,0.0,0.0093,0.0,1,0,absent
+medical certificate,0.0,0.0,0.0,0.0,0.0069,0,1,absent
+standards,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+subsistence allowance,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+mediation,0.0,0.0,0.0,0.0062,0.0028,1,1,absent
+industrial or other establishment,0.0,0.0,0.0,0.0123,0.0,1,0,absent
+public sector,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+equity,0.0,0.0,0.0,0.0,0.0083,0,1,absent
+government servant,0.0,0.0,0.0,0.0093,0.0,1,0,absent
+rehabilitation,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+judicial magistrate,0.0,0.0,0.0,0.0,0.0069,0,1,absent
+working balance,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+duties of importers,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+public servant,0.0,0.0,0.0,0.0,0.0014,0,1,absent
+restart,0.0,0.0,0.0,0.0031,0.0,1,0,absent
+gifts,0.0,0.0,0.0,0.0,0.0097,0,1,absent
+voting,0.0,0.0,0.0,0.0123,0.0,1,0,absent
+engagement,0.0,0.0,0.0,0.0,0.0083,0,1,absent
+valuer,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+branch,0.0,0.0,0.0,0.0,0.0097,0,1,absent
+property,0.0,0.0,0.0,0.0,0.0097,0,2,absent
+gross income,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+liabilities,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+null and void,0.0,0.0,0.0,0.0093,0.0,1,0,absent
+temporary employment,0.0,0.0,0.0,0.0,0.0152,0,1,absent
+management of properties,0.0,0.0,0.0,0.0,0.018,0,1,absent
+monthly wages,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+pensionary benefits,0.0,0.0,0.0,0.0,0.0014,0,1,absent
+direct tax,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+criminal conspiracy,0.0,0.0,0.0,0.0,0.0014,0,1,absent
+submission,0.0,0.0,0.0,0.0031,0.0,1,0,absent
+aluminium,0.0,0.0,0.0,0.0216,0.0,1,0,absent
+medical expenses,0.0,0.0,0.0,0.0,0.0125,0,1,absent
+certificate of registration,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+private sector,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+composition of offences,0.0,0.0,0.0,0.0,0.0069,0,2,absent
+interpretation,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+independent person,0.0,0.0,0.0,0.0031,0.0028,1,1,absent
+valuation of assets and liabilities,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+opportunity to comply,0.0,0.0,0.0,0.0,0.0055,0,1,absent
+right,0.0,0.0,0.0,0.0093,0.0,1,0,absent
+judicial decision,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+restraint of trade,0.0,0.0,0.0,0.0,0.0028,0,1,absent
+local authority,0.0,0.0,0.0,0.0031,0.0042,1,1,absent
+amount in arrears,0.0,0.0,0.0,0.0,0.0042,0,1,absent
+prescribed rates,0.0,0.0,0.0,0.0,0.0152,0,1,absent
+conditions of employment,0.0,0.0001,0.0001,0.0,0.0069,0,1,gained
+eligibility,0.0,0.0001,0.0001,0.0,0.0125,0,1,gained
+employee contribution,0.0,0.0001,0.0001,0.0,0.0055,0,1,gained
+board,0.0,0.0001,0.0001,0.0123,0.0194,1,1,gained
+consultation,0.0,0.0001,0.0001,0.0,0.0083,0,1,gained
+house-accommodation,0.0,0.0001,0.0001,0.0123,0.0125,1,2,gained
+enforceability,0.0,0.0001,0.0001,0.0,0.0069,0,1,gained
+redemption,0.0,0.0001,0.0001,0.0,0.0111,0,1,gained
+night shifts,0.0,0.0001,0.0001,0.0,0.0069,0,1,gained
+employees' provident funds,0.0,0.0001,0.0001,0.0,0.0083,0,1,gained
+misuse of benefits,0.0,0.0001,0.0001,0.0,0.0055,0,1,gained
+tubectomy operation,0.0,0.0001,0.0001,0.0,0.0083,0,1,gained
+aadhaar number,0.0,0.0001,0.0001,0.0,0.0125,0,1,gained
+obstruction,0.0005,0.0006,0.0001,0.0093,0.0235,1,2,gained
+employer contribution,0.0,0.0001,0.0001,0.0,0.0055,0,1,gained
+out-patient treatment,0.0,0.0001,0.0001,0.0,0.0083,0,1,gained
+crèche facility,0.0,0.0001,0.0001,0.0,0.0055,0,1,gained
+qualification,0.0,0.0001,0.0001,0.0,0.0083,0,1,gained
+wage slips,0.0,0.0001,0.0001,0.0,0.0111,0,1,gained
+deduction from wages,0.0001,0.0002,0.0001,0.0062,0.0055,1,1,gained
+parliament,0.0,0.0001,0.0001,0.0,0.0055,0,1,gained
+average daily wage,0.0,0.0001,0.0001,0.0,0.0083,0,1,gained
+medical check-up,0.0,0.0001,0.0001,0.0,0.0083,0,1,gained
+change of employers,0.0,0.0001,0.0001,0.0,0.0069,0,1,gained
+disclosure of information,0.0,0.0001,0.0001,0.0,0.0055,0,1,gained
+depreciation,0.0,0.0001,0.0001,0.0,0.0097,0,2,gained
+delegation,0.0,0.0001,0.0001,0.0,0.0083,0,1,gained
+installments,0.0,0.0001,0.0001,0.0,0.0097,0,1,gained
+uninterrupted service,0.0,0.0001,0.0001,0.0,0.0139,0,1,gained
+annual health check-ups,0.0,0.0001,0.0001,0.0,0.0097,0,1,gained
+authority,0.0,0.0001,0.0001,0.0,0.0125,0,1,gained
+in-patient treatment,0.0,0.0001,0.0001,0.0,0.0083,0,1,gained
+labour related matters,0.0,0.0001,0.0001,0.0,0.0069,0,1,gained
+inland water transport establishments,0.0,0.0001,0.0001,0.0,0.0055,0,1,gained
+omission,0.0,0.0001,0.0001,0.0,0.0055,0,1,gained
+schemes,0.0,0.0001,0.0001,0.0,0.0069,0,2,gained
+salaries and allowances,0.0,0.0001,0.0001,0.0,0.0125,0,1,gained
+damage,0.0,0.0001,0.0001,0.0,0.0194,0,1,gained
+national importance,0.0,0.0001,0.0001,0.0093,0.0069,1,1,gained
+public sector financial institution,0.0,0.0001,0.0001,0.0,0.0055,0,1,gained
+self-declaration,0.0,0.0001,0.0001,0.0,0.0125,0,1,gained
+subscription,0.0,0.0001,0.0001,0.0,0.0055,0,1,gained
+claims,0.0,0.0001,0.0001,0.0,0.0125,0,1,gained
+membership,0.0,0.0001,0.0001,0.0,0.0083,0,2,gained
+restrictions,0.0,0.0001,0.0001,0.0,0.0194,0,1,gained
+inter-state migrant worker,0.0,0.0001,0.0001,0.0,0.0069,0,1,gained
+payment of charges,0.0,0.0001,0.0001,0.0,0.0083,0,1,gained
+personnel management,0.0,0.0001,0.0001,0.0,0.0111,0,1,gained
+human resource development,0.0,0.0001,0.0001,0.0,0.0111,0,1,gained
+worker protection,0.0,0.0001,0.0001,0.0,0.0097,0,1,gained
+interference with trade or business,0.0,0.0001,0.0001,0.0,0.0055,0,1,gained
+legal proceeding,0.0,0.0001,0.0001,0.0,0.0194,0,1,gained
+levy,0.0,0.0001,0.0001,0.0,0.0083,0,1,gained
+record-keeping,0.0,0.0001,0.0001,0.0,0.0097,0,1,gained
+course of employment,0.0,0.0001,0.0001,0.0,0.0055,0,1,gained
+legal affairs,0.0,0.0001,0.0001,0.0,0.0111,0,1,gained
+formalisation in employment,0.0,0.0001,0.0001,0.0,0.0097,0,1,gained
+muster roll,0.0,0.0001,0.0001,0.0,0.0125,0,3,gained
+cessation of work,0.0,0.0001,0.0001,0.0,0.0097,0,1,gained
+health,0.0,0.0001,0.0001,0.0,0.0083,0,1,gained
+unavoidable circumstances,0.0,0.0001,0.0001,0.0,0.0083,0,1,gained
+occupational safety and health statistics,0.0,0.0001,0.0001,0.0,0.0097,0,1,gained
+miscarriage,0.0,0.0001,0.0001,0.0,0.0083,0,1,gained
+tortuous act,0.0,0.0001,0.0001,0.0,0.0055,0,1,gained
+notice of periods of work,0.0,0.0001,0.0001,0.0,0.0069,0,1,gained
+appointment letter,0.0,0.0001,0.0001,0.0,0.0097,0,1,gained
+authorised leave,0.0,0.0001,0.0001,0.0,0.0097,0,1,gained
+memorandum of agreement,0.0,0.0001,0.0001,0.0,0.0111,0,1,gained
+sickness,0.0,0.0001,0.0001,0.0,0.0166,0,2,gained
+compulsory insurance,0.0,0.0001,0.0001,0.0,0.0055,0,1,gained
+burden of proof,0.0,0.0001,0.0001,0.0,0.0069,0,1,gained
+building workers' welfare board,0.0,0.0001,0.0001,0.0,0.0125,0,1,gained
+chief accounts officer,0.0,0.0001,0.0001,0.0,0.0069,0,1,gained
+judicial service,0.0,0.0001,0.0001,0.0,0.0111,0,1,gained
+agricultural income tax law,0.0,0.0001,0.0001,0.0,0.0097,0,1,gained
+interruption of service,0.0,0.0001,0.0001,0.0,0.0139,0,1,gained
+alternative employment,0.0,0.0001,0.0001,0.0123,0.0055,1,1,gained
+experience,0.0,0.0001,0.0001,0.0,0.0083,0,1,gained
+chief executive officer,0.0,0.0001,0.0001,0.0,0.0069,0,1,gained
+financial advisor,0.0,0.0001,0.0001,0.0,0.0069,0,1,gained
+judicial officer,0.0,0.0001,0.0001,0.0,0.0111,0,1,gained
+unorganized worker,0.0,0.0001,0.0001,0.0,0.0125,0,1,gained
+double employment,0.0,0.0001,0.0001,0.0,0.0069,0,1,gained
+service,0.0,0.0001,0.0001,0.0123,0.0055,1,1,gained
+non-payment of remuneration,0.0,0.0001,0.0001,0.0,0.0069,0,1,gained
+medical termination of pregnancy,0.0,0.0001,0.0001,0.0,0.0083,0,1,gained
+state unorganised workers' board,0.0,0.0001,0.0001,0.0,0.0125,0,1,gained
+occupational disease,0.0,0.0002,0.0002,0.0,0.0152,0,3,gained
+occupational safety,0.0,0.0002,0.0002,0.0,0.0111,0,3,gained
+permanent partial disablement,0.0,0.0002,0.0002,0.0,0.0083,0,1,gained
+reporting requirements,0.0,0.0002,0.0002,0.0,0.0097,0,1,gained
+provision,0.0,0.0002,0.0002,0.0062,0.0069,1,2,gained
+penalisation,0.0,0.0002,0.0002,0.0,0.0222,0,1,gained
+mine,0.0,0.0002,0.0002,0.0247,0.0083,2,1,gained
+works committee,0.0,0.0002,0.0002,0.0,0.0083,0,1,gained
+reinstatement,0.0,0.0002,0.0002,0.0,0.0083,0,2,gained
+national disaster,0.0,0.0002,0.0002,0.0,0.0055,0,1,gained
+discrimination in wages,0.0,0.0002,0.0002,0.0,0.0055,0,1,gained
+attendance of witnesses,0.0001,0.0003,0.0002,0.0123,0.0069,1,2,gained
+earning capacity,0.0,0.0002,0.0002,0.0,0.0083,0,1,gained
+bye-laws,0.0,0.0002,0.0002,0.0,0.0152,0,1,gained
+medical examination,0.0,0.0002,0.0002,0.0,0.0097,0,1,gained
+cognizance of offences,0.0,0.0002,0.0002,0.0093,0.0111,1,2,gained
+retrenchment compensation,0.0,0.0002,0.0002,0.0,0.0139,0,1,gained
+production of documents,0.0001,0.0003,0.0002,0.0123,0.0069,1,2,gained
+pandemic,0.0,0.0002,0.0002,0.0,0.0055,0,1,gained
+industrial premises,0.0,0.0002,0.0002,0.0,0.0152,0,1,gained
+permanent total disablement,0.0,0.0002,0.0002,0.0,0.0083,0,1,gained
+debt,0.0,0.0002,0.0002,0.0247,0.0111,1,2,gained
+payment of bonus,0.0,0.0002,0.0002,0.0,0.0111,0,3,gained
+returns,0.0007,0.0009,0.0002,0.0216,0.0346,1,6,gained
+beneficiary,0.0,0.0002,0.0002,0.0,0.0125,0,2,gained
+assessment,0.0,0.0002,0.0002,0.0,0.0166,0,2,gained
+maintenance of registers,0.0,0.0002,0.0002,0.0,0.0097,0,1,gained
+dependents' benefit,0.0,0.0002,0.0002,0.0,0.0083,0,1,gained
+statement,0.0,0.0002,0.0002,0.0,0.0222,0,1,gained
+change in conditions of service,0.0001,0.0003,0.0002,0.0185,0.0139,1,1,gained
+execution of provisions,0.0,0.0002,0.0002,0.0031,0.0042,1,1,gained
+serious bodily injury,0.0,0.0002,0.0002,0.0,0.0097,0,1,gained
+return,0.0,0.0002,0.0002,0.0,0.0222,0,1,gained
+duty,0.0,0.0002,0.0002,0.0,0.0152,0,1,gained
+medical board,0.0,0.0002,0.0002,0.0,0.0083,0,1,gained
+suspension,0.0,0.0002,0.0002,0.0,0.0097,0,2,gained
+information,0.0,0.0002,0.0002,0.0,0.0222,0,1,gained
+dearness allowance,0.0,0.0003,0.0003,0.0,0.0083,0,1,gained
+parliamentary procedure,0.0,0.0003,0.0003,0.0,0.0069,0,2,gained
+disease,0.0,0.0003,0.0003,0.0,0.0111,0,1,gained
+shift working,0.0,0.0003,0.0003,0.0,0.0139,0,1,gained
+qualifications,0.0,0.0003,0.0003,0.0,0.0111,0,1,gained
+partial disablement,0.0,0.0003,0.0003,0.0,0.0111,0,1,gained
+medical bonus,0.0,0.0003,0.0003,0.0,0.0097,0,2,gained
+nominee,0.0,0.0003,0.0003,0.0,0.0083,0,1,gained
+registers,0.0008,0.0011,0.0003,0.0309,0.0291,3,5,gained
+hazardous substance,0.0,0.0003,0.0003,0.0,0.0166,0,1,gained
+indemnity,0.0,0.0003,0.0003,0.0,0.0139,0,2,gained
+disablement benefit,0.0,0.0003,0.0003,0.0,0.0139,0,2,gained
+gender,0.0,0.0003,0.0003,0.0,0.0042,0,1,gained
+minimum wages,0.0,0.0003,0.0003,0.0,0.0069,0,1,gained
+allocable surplus,0.0,0.0003,0.0003,0.0,0.0111,0,3,gained
+employer liability,0.0006,0.0009,0.0003,0.0154,0.0125,1,2,gained
+savings,0.0,0.0003,0.0003,0.0,0.0069,0,1,gained
+maternity leave,0.0,0.0003,0.0003,0.0,0.0111,0,2,gained
+rule,0.0,0.0003,0.0003,0.0,0.0097,0,1,gained
+pensions,0.0,0.0003,0.0003,0.0,0.0111,0,1,gained
+due diligence,0.0006,0.0009,0.0003,0.0154,0.018,1,3,gained
+corporate social responsibility,0.0,0.0004,0.0004,0.0,0.0208,0,2,gained
+gig worker,0.0,0.0004,0.0004,0.0,0.0208,0,2,gained
+fatal accident,0.0,0.0004,0.0004,0.0,0.0166,0,2,gained
+funding,0.0,0.0004,0.0004,0.0,0.0208,0,2,gained
+government establishment,0.0,0.0004,0.0004,0.0,0.0194,0,2,gained
+platform worker,0.0,0.0004,0.0004,0.0,0.0208,0,2,gained
+imprisonment,0.0011,0.0015,0.0004,0.0278,0.0222,8,6,gained
+sickness benefit,0.0,0.0004,0.0004,0.0,0.018,0,4,gained
+lump sum,0.0,0.0005,0.0005,0.0,0.0111,0,2,gained
+audit,0.0,0.0005,0.0005,0.0,0.0111,0,2,gained
+transparency,0.0,0.0005,0.0005,0.0,0.0166,0,2,gained
+medical benefit,0.0,0.0005,0.0005,0.0,0.0166,0,2,gained
+balance sheet,0.0,0.0005,0.0005,0.0,0.0152,0,2,gained
+unorganised sector,0.0,0.0005,0.0005,0.0,0.0083,0,2,gained
+accountability,0.0,0.0005,0.0005,0.0,0.0166,0,2,gained
+profit and loss account,0.0,0.0005,0.0005,0.0,0.0152,0,2,gained
+extent,0.0003,0.0008,0.0005,0.0278,0.0111,1,2,gained
+substantial question of law,0.0,0.0005,0.0005,0.0,0.0166,0,2,gained
+employees' state insurance,0.0,0.0005,0.0005,0.0,0.018,0,3,gained
+loans,0.0,0.0005,0.0005,0.0,0.0125,0,2,gained
+prior permission,0.0017,0.0022,0.0005,0.034,0.0194,3,3,gained
+fund,0.0,0.0006,0.0006,0.0,0.0111,0,3,gained
+statutory deductions,0.0,0.0006,0.0006,0.0,0.0235,0,1,gained
+benefit fund,0.0,0.0006,0.0006,0.0,0.0055,0,1,gained
+maintenance of records,0.0,0.0006,0.0006,0.0,0.0235,0,1,gained
+business,0.0,0.0006,0.0006,0.0,0.0111,0,1,gained
+administrative member,0.0,0.0006,0.0006,0.0,0.0125,0,3,gained
+registered office,0.0,0.0006,0.0006,0.0,0.0152,0,1,gained
+age,0.0,0.0006,0.0006,0.0,0.0222,0,3,gained
+leave wages,0.0,0.0006,0.0006,0.0,0.0235,0,1,gained
+opportunity of being heard,0.0,0.0007,0.0007,0.0,0.0139,0,2,gained
+transfer of establishment,0.0,0.0007,0.0007,0.0,0.0111,0,2,gained
+absence,0.0002,0.0009,0.0007,0.0185,0.0166,1,2,gained
+dependant,0.0,0.0007,0.0007,0.0,0.0208,0,2,gained
+guilt,0.0,0.0007,0.0007,0.0,0.0125,0,1,gained
+equal representation,0.0001,0.0008,0.0007,0.0185,0.0097,1,2,gained
+disability,0.0002,0.0009,0.0007,0.0247,0.0125,1,2,gained
+audited accounts,0.0,0.0008,0.0008,0.0,0.0097,0,2,gained
+injunction,0.0,0.0008,0.0008,0.0,0.0208,0,2,gained
+worker representation,0.0003,0.0011,0.0008,0.0185,0.0125,1,2,gained
+personal injury,0.0,0.0008,0.0008,0.0,0.0152,0,2,gained
+grants,0.0,0.0008,0.0008,0.0,0.0194,0,2,gained
+social security fund,0.0,0.0009,0.0009,0.0,0.0111,0,2,gained
+grievance redressal,0.0,0.0009,0.0009,0.0,0.0277,0,3,gained
+unorganised workers,0.0,0.0009,0.0009,0.0,0.0125,0,3,gained
+standing orders,0.0106,0.0115,0.0009,0.0309,0.0568,5,15,gained
+salary,0.0,0.0009,0.0009,0.0,0.0208,0,2,gained
+default,0.0,0.0009,0.0009,0.0,0.0125,0,2,gained
+payment of cess,0.0,0.0009,0.0009,0.0,0.0125,0,3,gained
+subordinate authority,0.0,0.0009,0.0009,0.0,0.0028,0,1,gained
+settlement,0.005,0.0059,0.0009,0.0617,0.0471,7,8,gained
+appellate authority,0.0,0.001,0.001,0.0,0.0152,0,3,gained
+health and maternity benefits,0.0,0.001,0.001,0.0,0.0277,0,2,gained
+old age protection,0.0,0.001,0.001,0.0,0.0277,0,2,gained
+employees' compensation,0.0,0.001,0.001,0.0,0.0125,0,2,gained
+income,0.0,0.001,0.001,0.0,0.0097,0,2,gained
+life and disability cover,0.0,0.001,0.001,0.0,0.0277,0,2,gained
+employment opportunities,0.0,0.001,0.001,0.0,0.0125,0,2,gained
+misconduct,0.0001,0.0011,0.001,0.0463,0.018,1,3,gained
+permanent disablement,0.0,0.001,0.001,0.0,0.0125,0,2,gained
+insurance fund,0.0,0.0011,0.0011,0.0,0.0152,0,3,gained
+employment injury,0.0,0.0011,0.0011,0.0,0.0263,0,3,gained
+order,0.0,0.0011,0.0011,0.0123,0.0083,1,3,gained
+record keeping,0.0,0.0011,0.0011,0.0,0.0166,0,3,gained
+company,0.0014,0.0026,0.0012,0.0586,0.0319,3,5,gained
+judicial member,0.0,0.0012,0.0012,0.0,0.0166,0,4,gained
+official gazette,0.0003,0.0015,0.0012,0.0278,0.0097,1,3,gained
+undertaking,0.0,0.0012,0.0012,0.0,0.0152,0,2,gained
+eligibility conditions,0.0,0.0012,0.0012,0.0,0.0194,0,2,gained
+legal practitioner,0.0,0.0013,0.0013,0.0,0.0263,0,2,gained
+resignation,0.0,0.0013,0.0013,0.0,0.0208,0,2,gained
+fraud,0.0,0.0013,0.0013,0.0,0.0166,0,2,gained
+oath,0.0,0.0013,0.0013,0.0,0.0139,0,2,gained
+accounting,0.0,0.0013,0.0013,0.0,0.0139,0,2,gained
+review,0.0,0.0013,0.0013,0.0,0.0222,0,2,gained
+claim,0.0,0.0013,0.0013,0.0,0.0194,0,2,gained
+absence from duty,0.0002,0.0016,0.0014,0.0185,0.0235,1,2,gained
+repeal,0.0,0.0014,0.0014,0.0,0.0111,0,2,gained
+implementation,0.0,0.0014,0.0014,0.0,0.0042,0,1,gained
+discrimination,0.0,0.0014,0.0014,0.0123,0.0125,2,2,gained
+publication,0.0,0.0015,0.0015,0.0,0.018,0,3,gained
+employee identification,0.0,0.0015,0.0015,0.0,0.0249,0,2,gained
+authentication,0.0,0.0015,0.0015,0.0,0.0125,0,2,gained
+industrial relations,0.0003,0.0018,0.0015,0.0185,0.0166,1,3,gained
+transfer,0.0,0.0016,0.0016,0.0093,0.0097,1,2,gained
+pension scheme,0.0,0.0016,0.0016,0.0,0.0222,0,8,gained
+promotion,0.0,0.0016,0.0016,0.0,0.0291,0,2,gained
+budget,0.0,0.0016,0.0016,0.0,0.0097,0,2,gained
+pension fund,0.0,0.0016,0.0016,0.0062,0.018,1,6,gained
+deposit,0.0,0.0016,0.0016,0.0,0.0222,0,3,gained
+compliance,0.0,0.0017,0.0017,0.0154,0.018,1,3,gained
+exemption,0.0032,0.0049,0.0017,0.0216,0.0429,2,8,gained
+occupier,0.0,0.0017,0.0017,0.0,0.0166,0,2,gained
+officer,0.0001,0.0018,0.0017,0.0463,0.0416,1,4,gained
+employer's contribution,0.0,0.0018,0.0018,0.0,0.0332,0,6,gained
+costs,0.0,0.0018,0.0018,0.0,0.0208,0,2,gained
+moral turpitude,0.0,0.0018,0.0018,0.0,0.0111,0,2,gained
+injury,0.0,0.0018,0.0018,0.0,0.0305,0,5,gained
+fee,0.0,0.0019,0.0019,0.0,0.0208,0,2,gained
+removal,0.0,0.002,0.002,0.0,0.0166,0,2,gained
+attachment,0.0,0.002,0.002,0.0247,0.0263,1,2,gained
+accounts,0.0,0.002,0.002,0.0,0.0139,0,3,gained
+rules,0.0027,0.0047,0.002,0.0247,0.0471,2,6,gained
+discharge,0.0021,0.0041,0.002,0.0525,0.0374,2,3,gained
+gazetted officer,0.0,0.002,0.002,0.0093,0.0222,1,2,gained
+committee,0.0023,0.0043,0.002,0.0247,0.0374,2,3,gained
+salaries,0.0,0.002,0.002,0.0,0.0208,0,2,gained
+wage,0.0,0.0021,0.0021,0.0,0.0152,0,2,gained
+agreement,0.0027,0.0049,0.0022,0.0247,0.0305,2,4,gained
+working conditions,0.0016,0.0038,0.0022,0.0278,0.0319,4,6,gained
+dismissal,0.0063,0.0085,0.0022,0.037,0.0457,3,5,gained
+insolvency,0.0,0.0025,0.0025,0.0,0.018,0,2,gained
+tribunal,0.0038,0.0063,0.0025,0.0556,0.0346,4,10,gained
+application,0.0003,0.0029,0.0026,0.0278,0.0208,1,2,gained
+career centre,0.0,0.0027,0.0027,0.0,0.0319,0,3,gained
+good faith,0.0001,0.0028,0.0027,0.0123,0.0208,2,4,gained
+temporary disablement,0.0,0.0027,0.0027,0.0,0.0249,0,2,gained
+damages,0.0002,0.003,0.0028,0.0247,0.0429,1,6,gained
+terms and conditions of service,0.0,0.0028,0.0028,0.0,0.0222,0,2,gained
+delegation of powers,0.0,0.0028,0.0028,0.0,0.0055,0,3,gained
+representation,0.0,0.003,0.003,0.0,0.0208,0,3,gained
+unorganized workers,0.0,0.003,0.003,0.0,0.0305,0,3,gained
+disablement,0.0,0.0031,0.0031,0.0,0.0319,0,4,gained
+insurance scheme,0.0,0.0031,0.0031,0.0,0.0166,0,4,gained
+holidays,0.0,0.0031,0.0031,0.0216,0.0443,2,11,gained
+employees' insurance court,0.0,0.0032,0.0032,0.0,0.0346,0,3,gained
+user charges,0.0,0.0033,0.0033,0.0,0.0235,0,3,gained
+constitution,0.0,0.0033,0.0033,0.0,0.0194,0,3,gained
+allowances,0.0023,0.0057,0.0034,0.0247,0.0402,2,4,gained
+gross profits,0.0,0.0035,0.0035,0.0,0.0083,0,3,gained
+medical treatment,0.0,0.0035,0.0035,0.0,0.0305,0,5,gained
+family,0.0,0.0036,0.0036,0.0,0.0249,0,6,gained
+punishment,0.0014,0.005,0.0036,0.0586,0.0332,3,5,gained
+nomination,0.0,0.0036,0.0036,0.0,0.0291,0,5,gained
+remuneration,0.0,0.0039,0.0039,0.0,0.0291,0,3,gained
+recovery,0.0,0.004,0.004,0.0,0.036,0,4,gained
+disqualification,0.0,0.0041,0.0041,0.0,0.0194,0,3,gained
+state government,0.0,0.0041,0.0041,0.0,0.0249,0,4,gained
+payment,0.0,0.0042,0.0042,0.0,0.0319,0,4,gained
+vacancy,0.0,0.0043,0.0043,0.0,0.0235,0,3,gained
+educational schemes,0.0,0.0043,0.0043,0.0,0.0291,0,2,gained
+regulation,0.0001,0.0045,0.0044,0.0123,0.0139,1,3,gained
+industrial disputes,0.0007,0.0052,0.0045,0.0154,0.0208,2,4,gained
+interest,0.0,0.0046,0.0046,0.0,0.0388,0,6,gained
+death,0.0,0.0047,0.0047,0.0,0.0319,0,4,gained
+administration,0.0,0.0048,0.0048,0.0093,0.0319,1,4,gained
+platform workers,0.0,0.0048,0.0048,0.0,0.0346,0,4,gained
+gig workers,0.0,0.0048,0.0048,0.0,0.0346,0,4,gained
+liability,0.0191,0.0241,0.005,0.0494,0.0485,2,8,gained
+apprentice,0.0,0.0052,0.0052,0.0,0.0235,0,2,gained
+difficulty,0.0,0.0057,0.0057,0.0062,0.0097,1,3,gained
+minimum wage,0.0129,0.0188,0.0059,0.0833,0.0582,22,19,gained
+national industrial tribunal,0.0,0.0061,0.0061,0.0,0.0208,0,6,gained
+contractor,0.001,0.0071,0.0061,0.0216,0.0374,2,4,gained
+authorisation,0.0,0.0064,0.0064,0.0,0.0305,0,4,gained
+pension,0.0,0.0065,0.0065,0.0,0.0222,0,4,gained
+dispute resolution,0.0001,0.0067,0.0066,0.0185,0.0249,1,3,gained
+prosecution,0.0,0.0072,0.0072,0.0,0.0388,0,6,gained
+insurance,0.0,0.0075,0.0075,0.0,0.036,0,6,gained
+inquiry,0.0014,0.0092,0.0078,0.034,0.0443,3,6,gained
+court,0.0,0.008,0.008,0.0247,0.0249,1,3,gained
+working hours,0.0133,0.0215,0.0082,0.0988,0.1025,19,36,gained
+insured person,0.0,0.0083,0.0083,0.0,0.0471,0,4,gained
+scheme,0.0,0.0088,0.0088,0.0,0.036,0,6,gained
+jurisdiction,0.0059,0.0148,0.0089,0.0062,0.0582,2,8,gained
+contributions,0.0,0.0099,0.0099,0.0,0.0277,0,4,gained
+accident,0.0,0.0101,0.0101,0.0,0.072,0,14,gained
+leave,0.0,0.0102,0.0102,0.0216,0.09,2,27,gained
+occupational hazard,0.0064,0.0166,0.0102,0.0185,0.1163,5,78,gained
+expenditure,0.0,0.0106,0.0106,0.0,0.0208,0,4,gained
+migrant worker,0.0,0.0121,0.0121,0.0,0.0706,0,11,gained
+fixed term employment,0.0009,0.0136,0.0127,0.0123,0.0679,1,6,gained
+benefit,0.0,0.0132,0.0132,0.0,0.0554,0,5,gained
+accounting year,0.0,0.0133,0.0133,0.0,0.0319,0,5,gained
+corporation,0.0,0.0135,0.0135,0.0123,0.0485,1,5,gained
+regulations,0.0,0.0137,0.0137,0.0,0.0665,0,8,gained
+welfare,0.0,0.0138,0.0138,0.0,0.0582,0,10,gained
+registration,0.0235,0.0374,0.0139,0.0586,0.108,9,22,gained
+commencement,0.0003,0.0146,0.0143,0.0278,0.0263,1,5,gained
+social security organisation,0.0,0.0163,0.0163,0.0,0.0346,0,5,gained
+worker,0.0156,0.032,0.0164,0.0463,0.1399,4,42,gained
+maternity benefit,0.0,0.0169,0.0169,0.0,0.0845,0,15,gained
+trade union,0.0561,0.0759,0.0198,0.1543,0.1316,24,42,gained
+competent authority,0.0003,0.0211,0.0208,0.0278,0.0693,1,12,gained
+appointment,0.0025,0.0235,0.021,0.0154,0.072,2,9,gained
+bonus,0.0,0.0227,0.0227,0.0,0.0706,0,19,gained
+compensation,0.0144,0.0383,0.0239,0.0741,0.1343,6,28,gained
+gratuity,0.0,0.0264,0.0264,0.0,0.1108,0,16,gained
+cess,0.0,0.0289,0.0289,0.0,0.0803,0,10,gained
+contribution,0.0,0.0348,0.0348,0.0,0.1053,0,15,gained
+establishment,0.0019,0.0383,0.0364,0.0463,0.072,4,14,gained
+employee,0.0,0.0394,0.0394,0.0247,0.1219,1,19,gained
+benefits,0.0008,0.0476,0.0468,0.0247,0.1122,2,14,gained
+social security,0.0,0.0487,0.0487,0.0,0.09,0,12,gained
+health and safety,0.02,0.0719,0.0519,0.0802,0.1994,15,106,gained
+provident fund,0.0057,0.0762,0.0705,0.034,0.1579,1,40,gained
+notification,0.0015,0.0797,0.0782,0.037,0.1634,2,27,gained
